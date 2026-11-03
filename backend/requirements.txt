@@ -1,0 +1,7 @@
+fastapi>=0.120
+uvicorn[standard]>=0.38
+sqlalchemy>=2.0.44
+pyjwt>=2.10
+pydantic[email]>=2.12
+playwright>=1.56
+httpx>=0.28
